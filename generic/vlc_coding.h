@@ -1,0 +1,6 @@
+#ifndef VLC_CODING_H_INCLUDED
+#define VLC_CODING_H_INCLUDED
+
+
+
+#endif // VLC_CODING_H_INCLUDED
